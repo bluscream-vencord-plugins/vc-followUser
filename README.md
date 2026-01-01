@@ -35,4 +35,4 @@ This plugin was developed with assistance from **Cursor.AI** (Cursor's AI coding
 
 ## License
 
-GPL-3.0-or-later
+Unlicense
